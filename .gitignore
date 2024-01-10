@@ -4,3 +4,6 @@
 out
 gen
 0x00-ES6_basic/node_modules
+
+# macOS Specific
+.DS_Store
